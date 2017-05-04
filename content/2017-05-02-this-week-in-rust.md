@@ -200,7 +200,7 @@ it mentioned here. Email the [Rust Community Team][community] for access.
 
 # Rust Jobs
 
-* [Systems Programmer at Hadean](https://rustjobs.rs/jobs/17/hadean-systems-programmer) - C and Rust.
+* [Research Engineer (Big Data) at Hadean](https://news.ycombinator.com/item?id=14239538) - C and Rust.
 * [Software Engineer (Full Stack) at One Codex](https://rustjobs.rs/jobs/16/one-codex-software-engineer-full-stack-).
 
 *Tweet us at [@ThisWeekInRust](https://twitter.com/ThisWeekInRust) to get your job offers listed here!*
